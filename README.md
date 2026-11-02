@@ -22,7 +22,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and p
 | Skill | Proficiency |
 |---|---|
 | SQL | Intermediate |
-| Microsoft Excel | Intermediate |
+| Microsoft Excel | Advanced |
 | Power BI & DAX | Intermediate |
 | Power Query | Intermediate |
 | Python | Beginner |
